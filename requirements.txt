@@ -10,7 +10,7 @@ opencv-python-headless
 imutils
 Pillow
 pyzbar
-
+paddlepaddle
 python-multipart
 Jinja2
 starlette
