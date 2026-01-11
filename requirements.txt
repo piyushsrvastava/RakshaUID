@@ -10,11 +10,11 @@ opencv-python-headless
 imutils
 Pillow
 pyzbar
-paddlepaddle
-paddleocr
+pytesseract
+
 python-multipart
 Jinja2
 starlette
+itsdangerous
 
 tensorflow==2.15.0
-itsdangerous
